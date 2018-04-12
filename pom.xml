@@ -16,7 +16,7 @@
         </plugins>
      
     </build>
-    
+    <!-- This is for reporting purpose -->
     <reporting>
     <plugins>
       <plugin>
